@@ -39,7 +39,3 @@ The project must be delivered inside a fixed deadline while maintaining an accep
 |   `-- earned_value_management_analysis.xlsx
 `-- README.md
 ```
-
-## Portfolio Note
-
-This is a public portfolio version prepared from academic project management work. Raw lecture screenshots, group report PDFs, other students' names, and academic submission details are not included because they are not suitable for a public GitHub portfolio.
